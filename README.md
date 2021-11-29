@@ -1,9 +1,7 @@
 # Radomir Wojtera
 
-linkedin: [Radomir Wojtera](https://www.linkedin.com/in/radomirwojtera)
-
+linkedin: [Radomir Wojtera](https://www.linkedin.com/in/radomirwojtera)  
 mail: radomir.wojtera (at) gmail.com  
-
 github: [tiriana](https://github.com/tiriana)  
 
 
