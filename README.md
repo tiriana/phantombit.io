@@ -13,3 +13,6 @@ codechef: [tiriana](https://www.codechef.com/users/tiriana)
 hackerrank: [tiriana](https://www.hackerrank.com/tiriana)  
 medium: [@radomir.wojtera](https://medium.com/@radomir.wojtera)  
 facebook: [Radomir Wojtera](https://www.facebook.com/radomir.wojtera)  
+
+
+One day I will turn this into a proper site. Until then - markdown.
