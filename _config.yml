@@ -1,3 +1,5 @@
-theme: jekyll-theme-hacker
 title: Radomir Wojtera
-description: Phantom Bit
+description: My Online Business Card with Short Bio and Links to My Accounts
+remote_theme: "godalming123/minimal"
+plugins:
+  - jekyll-remote-theme
