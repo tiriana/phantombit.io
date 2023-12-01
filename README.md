@@ -1,18 +1,20 @@
-# Radomir Wojtera
+# <img src="assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100"> Radomir Wojtera
 
-linkedin: [Radomir Wojtera](https://www.linkedin.com/in/radomirwojtera)  
-mail: radomir.wojtera (at) gmail.com  
-github: [tiriana](https://github.com/tiriana)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
-codewars: [tiriana](https://www.codewars.com/users/tiriana)
-[![tiriana on codewars](https://www.codewars.com/users/tiriana/badges/micro)](https://www.codewars.com/users/tiriana)  
-stack overflow: [tiriana](https://stackoverflow.com/users/942223/tiriana)  
-twitter: [@phantombit](https://twitter.com/phantombit)  
-geeksforgeeks: [tiriana](https://auth.geeksforgeeks.org/user/tiriana/practice)  
-codechef: [tiriana](https://www.codechef.com/users/tiriana)  
-hackerrank: [tiriana](https://www.hackerrank.com/tiriana)  
-medium: [@radomir.wojtera](https://medium.com/@radomir.wojtera)  
-facebook: [Radomir Wojtera](https://www.facebook.com/radomir.wojtera)  
+## About Me
 
+- **Experienced Programmer**: I have over 15 years of expertise in web development, scripting, and software applications.
 
-One day I will turn this into a proper site. Until then - markdown.
+- **Diverse Projects**: My work includes a wide range of projects, from websites and applications to games and platforms.
+
+- **Efficiency Specialist**: I specialize in optimizing technology for efficient performance.
+
+- **User-Centric**: My focus is on creating practical solutions that enhance user experiences.
+
+## Contact me
+
+[![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana)
+[![X](<https://img.shields.io/badge/X%20(twitter)-1DA1F2?style=for-the-badge&logo=X&logoColor=white>)](https://twitter.com/phantombit)
