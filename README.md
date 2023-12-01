@@ -13,14 +13,13 @@
 
 - **User-Centric**: My focus is on creating practical solutions that enhance user experiences.
 
-## Contact me
-
-[![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana)
-[![X](<https://img.shields.io/badge/X%20(twitter)-1DA1F2?style=for-the-badge&logo=X&logoColor=white>)](https://twitter.com/phantombit)
-
 ## Buy Me a Coffee ☕
 
 If you find my work helpful and want to support my projects, you can buy me a coffee. Your support is greatly appreciated!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)
+
+## Contact me
+
+[![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana)
