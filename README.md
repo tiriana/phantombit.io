@@ -1,4 +1,7 @@
-# <img src="assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100"> Radomir Wojtera
+# <a href="https://tiriana.github.io/phantombit.io/">
+
+  <img src="assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100">
+</a> Radomir Wojtera
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
