@@ -1,8 +1,6 @@
-<div class="flex items-center gap-4 flex-wrap sm:flex-nowrap">
-    <a href="https://tiriana.github.io/phantombit.io/">
-        <img src="assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100" class="flex-shrink-0">
-    </a>
-    <h1 class="text-3xl sm:text-4xl m-0 whitespace-nowrap">Radomir Wojtera</h1>
+<div>
+    <img src="assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100">
+    <h1>Radomir Wojtera</h1>
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
