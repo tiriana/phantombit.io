@@ -15,7 +15,7 @@
   - CI/CD Pipeline Design: GitHub Actions specialist, GitLab CI experience
 - **Testing Enthusiast** 🧪
   - Passionate about code quality and test coverage
-  - Proficient in: Jest, Mocha, Jasmine, Karma, PHPUnit, PEST, JUnit, Spock, Cypress, WebDriver.io
+  - Proficient in:  Cypress, WebDriver.io, Jest, Mocha, Jasmine, Karma, JUnit, Spock, PHPUnit, PEST,
   - Experience with unit, integration, and e2e testing strategies
 
 ### 🤖 AI-Enhanced Development
