@@ -1,5 +1,5 @@
 <div>
-    <img class="avatar-user" src="https://avatars.githubusercontent.com/u/5216143" alt="Radomir Wojtera" width="100" height="100">
+    <img class="avatar-user" src="/assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100">
     <h1>Radomir Wojtera</h1>
 </div>
 
