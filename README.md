@@ -47,9 +47,8 @@ I'm passionate about leveraging AI to revolutionize software development. I acti
 ### 🎤 Public Speaking
 
 I enjoy sharing knowledge and experiences with the tech community:
-- [Angular Performance Talk](https://www.youtube.com/watch?app=desktop&v=6WwQq8EVlUg)
-- [Angular Forms Talk](https://www.youtube.com/watch?v=jN_9WDGYuB0)
-- Speaker at ng-poznan-23
+- [Road to Redux](https://www.youtube.com/watch?app=desktop&v=6WwQq8EVlUg) (🇵🇱)
+- [Meet.js Poznań - A year in GameDev](https://www.youtube.com/watch?v=jN_9WDGYuB0) (🇵🇱)
 
 ### 🌟 What Sets Me Apart
 
