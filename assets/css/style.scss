@@ -10,3 +10,40 @@ header {
 .avatar-user {
     border-radius: 50% !important;
 }
+
+.phantombit {
+  font-family: monospace;
+  font-size: 2rem;
+}
+
+.o-transform {
+  display: inline-block;
+  animation: morphO 4s infinite;
+}
+
+.i-transform {
+  display: inline-block;
+  animation: morphI 5.5s infinite;
+}
+
+@keyframes morphO {
+  0%, 45%, 100% { 
+    font-family: monospace;
+    content: "o";
+  }
+  50%, 95% { 
+    font-family: monospace;
+    content: "0";
+  }
+}
+
+@keyframes morphI {
+  0%, 45%, 100% { 
+    font-family: monospace;
+    content: "i";
+  }
+  50%, 95% { 
+    font-family: monospace;
+    content: "1";
+  }
+}
