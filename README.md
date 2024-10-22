@@ -5,7 +5,7 @@
 
 ## About Me
 
-🚀 **Versatile Software Engineer** with `(new Date().getFullYear() - 2009)` years of hands-on experience crafting digital solutions. I wear many hats and love every one of them:
+🚀 **Versatile Software Engineer** with 15+ years (since 2009) of hands-on experience crafting digital solutions. I wear many hats and love every one of them:
 
 ### 💻 Technical Expertise
 
