@@ -3,3 +3,6 @@ description: My Online Business Card with Short Bio and Links to My Accounts
 remote_theme: "godalming123/minimal"
 plugins:
   - jekyll-remote-theme
+
+include:
+  - _includes/head.html
