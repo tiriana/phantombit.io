@@ -1,13 +1,7 @@
 <div>
     <img class="avatar-user" src="/assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100">
     <h1>Radomir Wojtera</h1>
-    <div class="morphing">
-      <h2 class="word">phantom bit</h2>
-      <h2 class="word">phant0m bit</h2>
-      <h2 class="word">phantom b1t</h2>
-      <h2 class="word">phantom bit</h2>
-      <h2 class="word">phant0m b1t</h2>
-    </div>
+    <h2 class="word">phantom bit</h2>
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
