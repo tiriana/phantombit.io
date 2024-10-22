@@ -1,7 +1,7 @@
 <div>
     <img class="avatar-user" src="/assets/images/the_face.png" alt="Radomir Wojtera" width="100" height="100">
     <h1>Radomir Wojtera</h1>
-    <span class="phantombit">phant<span class="o-transform">o</span>m b<span class="i-transform">i</span>t</span>
+    <h2 class="phantombit">phant<span class="o-transform">o</span>m b<span class="i-transform">i</span>t</h2>
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
