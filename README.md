@@ -17,7 +17,6 @@
 - **DevOps & CI/CD** 🔧
   - Docker expertise: Containerization, Dockerfile optimization, Docker Compose
   - CI/CD Pipeline Design: GitHub Actions specialist, GitLab CI experience
-  - Infrastructure as Code practitioner
 
 - **Testing Enthusiast** 🧪
   - Passionate about code quality and test coverage
