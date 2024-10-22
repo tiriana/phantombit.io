@@ -8,30 +8,17 @@
 <link rel="icon" type="image/svg+xml" href="/assets/images/logo_animated.svg">
 
 <script>
-  function isChrome() {
-    const userAgent = navigator.userAgent;
-    return /Chrome/.test(userAgent) && !/Edge/.test(userAgent); // Edge is also Chromium-based
-  }
+  const isChrome = () => /Chrome/.test(navigator.userAgent) && !/Edge/.test(navigator.userAgent);
   
-  
-
   if (isChrome()) {
+    const link = document.querySelector("link[rel='icon']");
+    const [noLogo, logo] = ['/assets/images/logo_no.svg', '/assets/images/logo.svg'];
+    let useAlt = false;
     
-    const favicons = [
-      '/assets/images/logo_no.svg',
-      '/assets/images/logo.svg'
-    ];
-    
-    let currentFaviconIndex = 0;
-  
-    function swapFavicon() {
-      const link = document.querySelector("link[rel='icon']");
-  
-      currentFaviconIndex = (currentFaviconIndex + 1) % favicons.length;
-      link.href = favicons[currentFaviconIndex];
-    }
-    
-    setInterval(swapFavicon, 1000);
+    setInterval(() => {
+      link.href = useAlt ? logo : noLogo;
+      useAlt = !useAlt;
+    }, 1000);
   }
 </script>
 
