@@ -7,4 +7,23 @@
 <!-- You can set your favicon here -->
 <link rel="icon" type="image/svg+xml" href="/assets/images/logo_animated.svg">
 
+<script>
+  const favicons = [
+    '/assets/images/logo_animated.svg',
+    '/assets/images/logo.svg'
+  ];
+  
+  let currentFaviconIndex = 0;
+
+  function swapFavicon() {
+    const link = document.querySelector("link[rel='icon']");
+
+    currentFaviconIndex = (currentFaviconIndex + 1) % favicons.length;
+    link.href = favicons[currentFaviconIndex];
+  }
+
+  setInterval(swapFavicon, 1000);
+</script>
+
+
 <!-- end custom head snippets -->
