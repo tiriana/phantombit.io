@@ -7,7 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 ## About Me
-🚀 **Versatile Software Engineer** with 15+ years (since 2009) of hands-on experience crafting digital solutions. I wear many hats and love every one of them:
+🚀 **Versatile Software Engineer** with 15+ years of hands-on experience crafting digital solutions. 
+I specialize in delivering business-focused software and enjoy solving real-world problems through technology.
 
 ### 💻 Technical Expertise
 - **Full-Stack Development**:
