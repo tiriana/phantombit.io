@@ -10,11 +10,11 @@ body {
 }
 
 section {
-    width: 100%; /* Set width to 100% for smaller screens */
-    max-width: 667px; /* Limit width to 667px on larger screens */
+    width: 100%;
+    max-width: 667px;
     float: none;
     padding-bottom: 0;
-    margin: 0 auto; /* Center the section */
+    margin: 0 auto; 
 }
 
 footer {
@@ -27,14 +27,3 @@ footer p:first-child {
   display: none;
 }
 
-/* Media query for mobile devices */
-@media (max-width: 767px) {
-    section {
-        width: 100%; /* Full width for mobile screens */
-        padding: 0 15px; /* Add some padding for better spacing */
-    }
-    
-    body {
-        padding-bottom: 15px; /* Add some bottom padding for mobile */
-    }
-}
