@@ -6,3 +6,17 @@
 header {
   display: none;
 }
+
+section {
+    width: inherit;
+    float: none;
+}
+
+footer {
+    float: none;
+    position: relative;
+}
+
+footer p:first-child {
+  display: none;
+}
