@@ -15,11 +15,13 @@ body {
 section {
     width: 667px;
     float: none;
+    padding-bottom: 0;
 }
 
 footer {
     float: none;
     position: relative;
+    bottom: none;
 }
 
 footer p:first-child {
