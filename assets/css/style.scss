@@ -21,7 +21,7 @@ section {
 footer {
     float: none;
     position: relative;
-    bottom: none;
+    bottom: inherit;
 }
 
 footer p:first-child {
