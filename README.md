@@ -3,7 +3,7 @@
     <h1>Radomir Wojtera</h1>
 </div>
 
-**Senior React/Next.js Engineer | AI-Augmented Workflows & Full-Stack (Java/PHP)**
+<strong>Senior React/Next.js Engineer | AI-Augmented Workflows & Full-Stack (Java/PHP)</strong>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
@@ -18,7 +18,7 @@
 
 **Tier 2 — Backend Integration & AI-Augmented Workflows**
 - **Backend Integration:** Java (Spring Boot), PHP (Symfony/Laravel), Node.js, and Nest.js. Capable of owning the full stack and integrating seamlessly with existing Java/PHP backends, so frontend execution never blocks on backend boundaries.
-- **AI-Augmented Development:** agentic workflows (Claude, ChatGPT-4) for rapidly scaffolding Next.js architectures, generating React component tests (Jest/Cypress), and automating code review — a massive speed multiplier for feature delivery.
+- **AI-Augmented Development:** agentic workflows for rapidly scaffolding Next.js architectures, generating React component tests (Jest/Cypress), and automating code review — a massive speed multiplier for feature delivery.
 
 **Tier 3 — Developer Productivity & Quality**
 - **Workflow automation:** GitHub Actions, GitLab CI, and Docker to automate tedious frontend workflows and make React/Next.js deployments flawless — so the team ships features instead of fighting pipelines.
@@ -26,7 +26,7 @@
 
 ### 👥 Leadership & Mentorship
 - **Team Leadership:** guided teams of 4-5 developers, driving agile workflows and frontend architecture decisions.
-- **Engineering Mentorship:** upskilling developers in React best practices and AI-assisted development workflows (ChatGPT-4, Claude).
+- **Engineering Mentorship:** upskilling developers in React best practices and AI-assisted development workflows.
 - **Knowledge Sharing:** champion of visible progress tracking and API documentation.
 
 
@@ -34,7 +34,7 @@
 ### 🌟 What Sets Me Apart
 I combine 15+ years of engineering experience with a deep, specialized focus on **React** and **TypeScript** architecture. Because I have a full-stack background, I don't just build isolated UI components — I design scalable, test-driven frontend systems that integrate cleanly with complex Java/PHP backends.
 
-What truly differentiates my approach is **AI-augmented engineering**. Actively integrating Claude and ChatGPT-4 into my daily workflow — for rapid component prototyping, complex state-management debugging, and comprehensive test generation — I multiply engineering output and help teams adopt high-velocity modern workflows.
+What truly differentiates my approach is **AI-augmented engineering**. Actively integrating modern AI agents into my daily workflow — for rapid component prototyping, complex state-management debugging, and comprehensive test generation — I multiply engineering output and help teams adopt high-velocity modern workflows.
 
 ## Buy Me a Coffee ☕
 If you've found my talks, code, or mentoring helpful, consider buying me a coffee. Your support helps me continue creating content and contributing to the developer community!
