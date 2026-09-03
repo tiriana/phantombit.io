@@ -1,5 +1,10 @@
 title: Radomir Wojtera
-description: Senior React/Next.js Engineer specializing in AI-augmented workflows, TypeScript frontend architecture, and full-stack Java/PHP integration
+description: Staff / Lead Frontend Engineer | React, Next.js & Developer Tooling
+author: Radomir Wojtera
+url: "https://www.radomir.dev"
+image: /assets/images/the_face.png
+twitter_username: phantombit
+github_username: tiriana
 remote_theme: "godalming123/minimal"
 plugins:
   - jekyll-remote-theme

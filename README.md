@@ -3,44 +3,64 @@
     <h1>Radomir Wojtera</h1>
 </div>
 
-<strong>Senior React/Next.js Engineer | AI-Augmented Workflows & Full-Stack (Java/PHP)</strong>
+<strong>Staff / Lead Frontend Engineer | React, Next.js & Developer Tooling</strong>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 ## About Me
-🚀 Senior **React/Next.js** Engineer with 15+ years of experience building high-performance, scalable frontend architectures in **TypeScript**. I pair battle-tested React engineering with **AI-augmented workflows** to ship features fast, and my full-stack background lets me integrate seamlessly with Java and PHP backends.
+15+ years of engineering experience architecting **scalable React applications**, robust **CI/CD pipelines**, and **high-performance B2B SaaS tools**. TypeScript-first architecture, state management, and design systems — backed by test automation (Cypress, Jest) that keeps enterprise releases safe on every deploy.
 
-### 💻 Technical Expertise
+## Key Competencies
 
-**Tier 1 — Frontend Ecosystem (Primary Focus)**
-- **React & Next.js:** type-safe, state-driven application architecture with **TypeScript**, **React**, and **Next.js**. Focused on scalable state management, modern UI performance, and robust design systems.
+**Frontend Architecture**
+- React, Next.js, TypeScript, State Management, Design Systems, Tailwind CSS
+- Micro-frontends, bundle-size optimization, high-performance enterprise UI
 
-**Tier 2 — Backend Integration & AI-Augmented Workflows**
-- **Backend Integration:** Java (Spring Boot), PHP (Symfony/Laravel), Node.js, and Nest.js. Capable of owning the full stack and integrating seamlessly with existing Java/PHP backends, so frontend execution never blocks on backend boundaries.
-- **AI-Augmented Development:** agentic workflows for rapidly scaffolding Next.js architectures, generating React component tests (Jest/Cypress), and automating code review — a massive speed multiplier for feature delivery.
+**Quality, Testing & DX**
+- Cypress, Jest, CI/CD Pipelines (GitHub Actions), Docker, Test Automation
+- Design-for-testability and DX automation that remove friction from frontend workflows
 
-**Tier 3 — Developer Productivity & Quality**
-- **Workflow automation:** GitHub Actions, GitLab CI, and Docker to automate tedious frontend workflows and make React/Next.js deployments flawless — so the team ships features instead of fighting pipelines.
-- **Quality:** a focused, intent-driven testing toolkit (Jest, Cypress) applied to every React application I ship.
+**Backend & Integrations**
+- Node.js, Nest.js, Spring Boot, Kotlin/Java
+- REST & GraphQL API design; schema-first integration with enterprise backends
 
-### 👥 Leadership & Mentorship
-- **Team Leadership:** guided teams of 4-5 developers, driving agile workflows and frontend architecture decisions.
-- **Engineering Mentorship:** upskilling developers in React best practices and AI-assisted development workflows.
-- **Knowledge Sharing:** champion of visible progress tracking and API documentation.
+**Engineering Leadership**
+- Team mentorship (4–5 devs), technical hiring, code reviews, architecture documentation
+- Agile process ownership and React adoption across teams
 
+## Featured Work
+Most production work lives in private enterprise repos; below are representative systems I own or architected.
 
+### Enterprise Back-Office Platform — *React · TypeScript · State Management · CI/CD*
+- Own ~95% of a high-traffic internal operations console; refactored legacy views into a type-safe, scalable React architecture.
+- Consolidated state management and a shared design system, cutting duplication across modules and accelerating feature delivery for ops teams.
+- Added Cypress + Jest coverage over critical workflows and automated releases with GitHub Actions to de-risk every deploy.
 
-### 🌟 What Sets Me Apart
-I combine 15+ years of engineering experience with a deep, specialized focus on **React** and **TypeScript** architecture. Because I have a full-stack background, I don't just build isolated UI components — I design scalable, test-driven frontend systems that integrate cleanly with complex Java/PHP backends.
+### Event Visualization Engine — *React · Interactive Canvas Components · Pluggable Architecture*
+- Architected the pluggable interpreter layer so the rendering core stays domain-agnostic — new data formats plug in as typed adapters with zero engine changes.
+- Built for high-frequency event streams and complex dashboards; canvas-based rendering powers interactive, high-performance enterprise visualization.
 
-What truly differentiates my approach is **AI-augmented engineering**. Actively integrating modern AI agents into my daily workflow — for rapid component prototyping, complex state-management debugging, and comprehensive test generation — I multiply engineering output and help teams adopt high-velocity modern workflows.
+### Internal Developer Tooling — *React · Kotlin · Build Pipeline*
+- 100% ownership: rebuilt the complete admin UI and designed the build/deploy pipeline for an internal developer server.
+- Hardened the Kotlin backend — endpoints, schemas, entities — ramping Kotlin through AI-augmented engineering.
+- Pipeline automation lets teams ship tooling updates reliably instead of fighting deployments.
 
-## Buy Me a Coffee ☕
-If you've found my talks, code, or mentoring helpful, consider buying me a coffee. Your support helps me continue creating content and contributing to the developer community!
+**Additional contributions:** API endpoints, schemas, and comprehensive tests across internal platform services (Node/Nest, Spring, Kotlin) plus a customer support suite; champion of API documentation and visible progress tracking.
+
+## Career Highlights
+- **15+ years** in software engineering — early career in Java/PHP, deep specialization in React/TypeScript architecture over the last several years.
+- **Technical Lead (3 years):** guided a team of 4–5 developers through agile workflows, architecture decisions, and code review standards.
+- Institutionalized test-first and AI-augmented development practices; mentored developers in React best practices and modern workflows.
+- Active contributor on Stack Overflow and Codewars.
+
+## Contact & Focus Areas
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
+[![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)
 
-## Developer Profiles
-[![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana)
+> *"Focus Areas: Currently open to Lead / Senior React roles in B2B SaaS, Developer Tooling, and Enterprise Applications. (Note: Not accepting roles in gaming or iGaming)."*
