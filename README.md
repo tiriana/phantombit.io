@@ -7,54 +7,27 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 ## About Me
-🚀 **Versatile Software Engineer** with 15+ years of hands-on experience crafting digital solutions. 
-I specialize in delivering business-focused software and enjoy solving real-world problems through technology.
+🚀 Senior Software Engineer with 15+ years of experience, specializing in building robust, scalable frontend architectures using **React** and **TypeScript**. While my primary focus is delivering high-performance React/Next.js applications, my deep full-stack background allows me to seamlessly bridge the gap between frontend execution and complex backend systems.
 
 ### 💻 Technical Expertise
-- **Full-Stack Development**:
-  - Frontend: React, Next.js, Game Development (Pixi.js)
-  - Backend: Node.js, PHP, Java, Groovy
-  - Frameworks: Spring Boot, Symfony, Laravel, Nest.js, Grails
-- **DevOps & CI/CD** 🔧
-  - Docker expertise: Containerization, Dockerfile optimization, Docker Compose
-  - CI/CD Pipeline Design: GitHub Actions specialist, GitLab CI experience
-- **Testing Enthusiast** 🧪
-  - Passionate about code quality and test coverage
-  - Proficient in:  Cypress, WebDriver.io, Jest, Mocha, Jasmine, Karma, JUnit, Spock, PHPUnit, PEST,
-  - Experience with unit, integration, and e2e testing strategies
+- **Frontend Architecture (Primary Focus):** **TypeScript**, **React**, and Next.js. Specializing in building scalable, state-driven user interfaces, type-safe architectures, and modern web applications.
+- **Backend & API Integration:** Node.js, Java (Spring Boot), PHP (Symfony/Laravel), and Nest.js. Deep full-stack foundation that enables seamless API design and zero-friction collaboration with backend teams.
+- **Testing & Quality Assurance:** Cypress, Jest, and WebDriver.io. Highly passionate about maintaining code quality through robust E2E, integration, and unit testing strategies (with additional historical experience in JUnit and PHPUnit).
+- **Infrastructure & Tooling:** Docker, GitHub Actions, and GitLab CI. Comfortable navigating and optimizing deployment pipelines and containerized environments.
 
-### 🤖 AI-Enhanced Development
-I'm passionate about leveraging AI to revolutionize software development. I actively integrate AI tools into my daily workflow:
-- **Practical AI Integration**: Regular use of ChatGPT-4 and Claude for:
-  - Code review and optimization
-  - Documentation generation
-  - Problem-solving and debugging
-  - Test case generation
-  - Development workflow automation
-- **Efficiency Focus**: Combining human expertise with AI capabilities to accelerate development while maintaining code quality
-- **Forward-Thinking**: Continuously exploring new ways AI can enhance software creation process
-
-### 👥 Leadership, Education & Communication
-- **Team Lead**: Successfully managed a team of 4-5 developers for 3 years
-- **Technical Interviewer**: Shaped recruitment processes and conducted technical interviews
-- **Educator**:
-  - Frontend Development Lecturer at CodersLab
-  - Mentored multiple student groups through complete course cycles
-- **Professional Communication Advocate**:
-  - Featured in [JustJoin.it interview](https://justjoin.it/blog/zawsze-zakladam-dobre-intencje) discussing the importance of assuming good intentions in professional communication
-  - Strong advocate for clear, transparent communication in software development
-- **Project Management Excellence**:
-  - Champion of visible progress tracking and up-to-date ticket management in JIRA/Trello
-  - Extensive experience in API documentation using Swagger, having documented 100+ endpoints
-  - Emphasis on transparency and clear documentation throughout the development lifecycle
+### 👥 Leadership & Communication
+- **Technical Lead:** Successfully managed a team of 4-5 developers for 3 years, driving agile workflows and architecture decisions.
+- **Engineering Mentorship:** Focused on upskilling team members in React best practices and AI-augmented development workflows (ChatGPT-4, Claude).
+- **Project Management:** Champion of visible progress tracking (JIRA) and API documentation (Swagger).
 
 ### 🎤 Public Speaking
 I enjoy sharing knowledge and experiences with the tech community:
 - [Road to Redux](https://www.youtube.com/watch?app=desktop&v=6WwQq8EVlUg) (🇵🇱)
-- [Meet.js Poznań - A year in GameDev](https://www.youtube.com/watch?v=jN_9WDGYuB0) (🇵🇱)
 
 ### 🌟 What Sets Me Apart
-I combine deep technical expertise with a modern, AI-augmented development approach. My experience spans from writing clean, tested code to architecting CI/CD pipelines, while actively embracing and implementing AI tools to enhance development efficiency. This blend of traditional software engineering and forward-thinking practices allows me to deliver high-quality solutions faster and help teams adapt to the evolving landscape of software development.
+I combine 15+ years of software engineering experience with a specialized focus on **React** and **TypeScript** architecture. Because I have a deep full-stack background, I don't just build isolated UI components—I design scalable, test-driven frontend systems that integrate seamlessly with complex backend APIs.
+
+What truly differentiates my approach is how I leverage **AI-augmented development**. By actively integrating tools like Claude and ChatGPT-4 into my daily workflow for rapid component prototyping, complex debugging, and comprehensive test generation (Cypress/Jest), I significantly multiply my engineering output. This blend of battle-tested TypeScript architecture and forward-thinking AI practices allows me to deliver high-quality product features faster and help engineering teams adopt high-velocity, modern workflows.
 
 ## Buy Me a Coffee ☕
 If you've found my talks, code, or mentoring helpful, consider buying me a coffee. Your support helps me continue creating content and contributing to the developer community!
