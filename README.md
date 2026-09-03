@@ -14,7 +14,7 @@
 ### 💻 Technical Expertise
 
 **Tier 1 — Frontend Ecosystem (Primary Focus)**
-- **React & Next.js:** type-safe, state-driven application architecture with **TypeScript**, **React**, **Next.js**, and **Redux**. Focused on scalable state management, modern UI performance, and robust design systems. Speaker of [Road to Redux](https://www.youtube.com/watch?app=desktop&v=6WwQq8EVlUg) at Meet.js 🇵🇱.
+- **React & Next.js:** type-safe, state-driven application architecture with **TypeScript**, **React**, and **Next.js**. Focused on scalable state management, modern UI performance, and robust design systems.
 
 **Tier 2 — Backend Integration & AI-Augmented Workflows**
 - **Backend Integration:** Java (Spring Boot), PHP (Symfony/Laravel), Node.js, and Nest.js. Capable of owning the full stack and integrating seamlessly with existing Java/PHP backends, so frontend execution never blocks on backend boundaries.
@@ -41,6 +41,6 @@ If you've found my talks, code, or mentoring helpful, consider buying me a coffe
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)
 
-## Let's Connect
+## Developer Profiles
 [![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana)
