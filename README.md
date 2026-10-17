@@ -4,7 +4,7 @@
 
 <strong>Staff / Lead Frontend Engineer | React, Next.js, TypeScript & Developer Tooling</strong>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
 
 ## About Me
 15+ years of engineering experience architecting **scalable React applications**, robust **CI/CD pipelines**, and **high-performance B2B SaaS tools**. TypeScript-first architecture, state management, and design systems — backed by test automation (Cypress, Jest) that keeps enterprise releases safe on every deploy.
@@ -53,6 +53,6 @@ Most production work lives in private enterprise repos; below are representative
 
 ## Contact & Focus Areas
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
 
 > *"Focus Areas: Currently open to Lead / Senior React roles in B2B SaaS, Developer Tooling, and Enterprise Applications. (Note: Not accepting roles in gaming or iGaming)."*
