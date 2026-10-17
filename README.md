@@ -2,10 +2,9 @@
     <h1>Radomir Wojtera</h1>
 </div>
 
-<strong>Staff / Lead Frontend Engineer | React, Next.js & Developer Tooling</strong>
+<strong>Staff / Lead Frontend Engineer | React, Next.js, TypeScript & Developer Tooling</strong>
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera) -->
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
 
 ## About Me
 15+ years of engineering experience architecting **scalable React applications**, robust **CI/CD pipelines**, and **high-performance B2B SaaS tools**. TypeScript-first architecture, state management, and design systems — backed by test automation (Cypress, Jest) that keeps enterprise releases safe on every deploy.
@@ -21,8 +20,8 @@
 - Design-for-testability and DX automation that remove friction from frontend workflows
 
 **Backend & Integrations**
-- Node.js, Nest.js, Spring Boot, Kotlin/Java
-- REST & GraphQL API design; schema-first integration with enterprise backends
+- Node.js, Nest.js, Express, TypeScript
+- REST & GraphQL API design; type-safe schema-first integration with backends (Zod, OpenAPI)
 
 **Engineering Leadership**
 - Team mentorship (4–5 devs), technical hiring, code reviews, architecture documentation
@@ -40,26 +39,20 @@ Most production work lives in private enterprise repos; below are representative
 - Architected the pluggable interpreter layer so the rendering core stays domain-agnostic — new data formats plug in as typed adapters with zero engine changes.
 - Built for high-frequency event streams and complex dashboards; canvas-based rendering powers interactive, high-performance enterprise visualization.
 
-### Internal Developer Tooling — *React · Kotlin · Build Pipeline*
+### Internal Developer Tooling — *React · TypeScript · Build Pipeline*
 - 100% ownership: rebuilt the complete admin UI and designed the build/deploy pipeline for an internal developer server.
-- Hardened the Kotlin backend — endpoints, schemas, entities — ramping Kotlin through AI-augmented engineering.
+- Hardened backend API integrations — endpoints, type-safe schemas, and validation contracts — leveraging modern AI-augmented engineering tools.
 - Pipeline automation lets teams ship tooling updates reliably instead of fighting deployments.
 
-**Additional contributions:** API endpoints, schemas, and comprehensive tests across internal platform services (Node/Nest, Spring, Kotlin) plus a customer support suite; champion of API documentation and visible progress tracking.
+**Additional contributions:** API endpoints, schemas, and comprehensive tests across internal platform services (Node/Nest, TypeScript) plus a customer support suite; champion of API documentation and visible progress tracking.
 
 ## Career Highlights
-- **15+ years** in software engineering — early career in Java/PHP, deep specialization in React/TypeScript architecture over the last several years.
+- **15+ years** in software engineering with a primary specialization and expert focus on React, Next.js, and TypeScript architecture.
 - **Technical Lead (3 years):** guided a team of 4–5 developers through agile workflows, architecture decisions, and code review standards.
 - Institutionalized test-first and AI-augmented development practices; mentored developers in React best practices and modern workflows.
-- Active contributor on Stack Overflow and Codewars.
 
 ## Contact & Focus Areas
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera) -->
-[![Codewars](https://img.shields.io/badge/Codewars-yellow?style=for-the-badge&logo=codewars)](https://www.codewars.com/users/tiriana)
-<!-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/942223/tiriana) -->
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/)
 
 > *"Focus Areas: Currently open to Lead / Senior React roles in B2B SaaS, Developer Tooling, and Enterprise Applications. (Note: Not accepting roles in gaming or iGaming)."*
