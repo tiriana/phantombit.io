@@ -5,6 +5,7 @@
 <strong>Staff / Lead Frontend Engineer | React, Next.js, TypeScript & Developer Tooling</strong>
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 ## About Me
 15+ years of engineering experience architecting **scalable React applications**, robust **CI/CD pipelines**, and **high-performance B2B SaaS tools**. TypeScript-first architecture, state management, and design systems — backed by test automation (Cypress, Jest) that keeps enterprise releases safe on every deploy.
@@ -54,6 +55,7 @@ Most production work lives in private enterprise repos; below are representative
 ## Contact & Focus Areas
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/radomirwojtera)
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)
 
