@@ -55,4 +55,6 @@ Most production work lives in private enterprise repos; below are representative
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tiriana)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tiriana)
+
 > *"Focus Areas: Currently open to Lead / Senior React roles in B2B SaaS, Developer Tooling, and Enterprise Applications. (Note: Not accepting roles in gaming or iGaming)."*
